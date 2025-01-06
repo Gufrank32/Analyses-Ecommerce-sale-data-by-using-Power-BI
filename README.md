@@ -1,5 +1,3 @@
-# Analyses-Ecommerce-sale-data-by-using-Power-BI
-
 Madhav Store eCommerce Sales Dashboard
 
 This repository showcases a Power BI project analyzing eCommerce sales data to derive actionable insights and create an interactive dashboard.
@@ -48,8 +46,6 @@ Credits
 
 YouTube Channel: Rishabh Mishra Official
 
-Project Video: eCommerce Sales Dashboard
+Project Video: https://www.youtube.com/
 
 Background Inspiration: Credit Card Financial Dashboard example.
-
-Feel free to explore, modify, and share this project. Contributions are welcome!
