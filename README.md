@@ -1,4 +1,4 @@
-#Madhav Store eCommerce Sales Dashboard#
+#Madhav Store eCommerce Sales Dashboard
 
 This repository showcases a Power BI project analyzing eCommerce sales data to derive actionable insights and create an interactive dashboard.
 
@@ -42,7 +42,7 @@ Open the MADHAV ECOMMERCE SALES DASHBOARD.pbix file in Power BI Desktop.
 
 Explore the dashboard interactively.
 
-*Credits*
+##Credits
 
 YouTube Channel: Rishabh Mishra Official
 
